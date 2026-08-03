@@ -33,8 +33,9 @@ I made the whole thing in the span of about 4 months, and the whole process was 
 
 ### Screenshots
 
-<img width="500" alt="Main menu" src="https://github.com/user-attachments/assets/72c0e11c-d4c8-4fea-8a6f-f7e8f2c00815" /> 
-<img width="500" alt="Credits menu" src="https://github.com/user-attachments/assets/771c5e5b-d39d-4833-846e-def882cd9334" />
+<img width="1280" alt="Main menu" src="https://github.com/user-attachments/assets/72c0e11c-d4c8-4fea-8a6f-f7e8f2c00815" /> 
+
+<img width="1280" alt="Credits menu" src="https://github.com/user-attachments/assets/771c5e5b-d39d-4833-846e-def882cd9334" />
 
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/94526ab6-fa8a-4670-8602-e0b5727d0ffc" />
 
