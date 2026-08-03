@@ -8,19 +8,19 @@ This repo was created to archive the source code of my first game, [VAVAVAV](htt
 
 ### How to compile
 
-I haven't tried recompiling the game in the newest version of [AppGameKit Studio](https://store.steampowered.com/app/1024640/AppGameKit_Studio/) (because I don't have it), so I'm not sure that it's possible. But the game is playable on [itch.io](https://jobson50.itch.io/vavavav) if you'd like to give it a try!
+I haven't tried recompiling the game in the newest version of [AppGameKit Studio](https://store.steampowered.com/app/1024640/AppGameKit_Studio/) (because I don't have it), so I'm not sure if it's possible. However, the game is playable on [itch.io](https://jobson50.itch.io/vavavav) if you'd like to give it a try!
 
 ## About the game
 
 <img width="1280" alt="Title bar" src="https://github.com/user-attachments/assets/f512fde7-4595-45a8-aa59-aac80b01701b" />
 
-[VAVAVAV](https://jobson50.itch.io/vavavav) is an endless sidescroller arcade game, the mechanics were very inspired by Geometry Dash and its "wave" game-mode. You control a ship and avoid the meteors to not crash and explode, the longer you survive the harder the game gets (up until a difficulty limit). It follows a simple game loop where you die and go back to the start, while the game keeps track of your scores and highscores. It also features a "Zen Mode" (toggled through a switch on the main menu screen), which makes the difficulty increase as you survive way smaller (the score and highscore for Zen and Normal Modes are separated).
+[VAVAVAV](https://jobson50.itch.io/vavavav) is an endless sidescroller arcade game. The mechanics were heavily inspired by Geometry Dash and its "wave" game mode. You control a ship and avoid the meteors to not crash and explode. The longer you survive, the harder the game gets (up until a difficulty limit). It follows a simple game loop where you die and go back to the start, while the game keeps track of your scores and highscores. It also features a "Zen Mode" (toggled through a switch on the main menu screen), which makes the difficulty increase at a much lower rate as you survive (the score and highscore for Zen and Normal Modes are separated).
 
-I made the whole thing in the span of about 4 months, and the whole process was a blast. Even though the source code is a mess of goto jumps and global variables, I'm proud of how the whole thing came out. And I do want to remake it at some point, maybe in Godot or C with Raylib or something, but I'm not sure it's gonna happen.
+I developed the game over the span of about 4 months, and the process was a blast. Even though the source code is a mess of goto jumps and global variables, I'm proud of how it turned out. And I do want to remake it at some point, maybe in Godot or C with Raylib or something, but I'm not sure it's gonna happen.
 
 ### How to play
 
-- Press and hold [LEFT MOUSE BUTTON] or [UP ARROW] or [SPACE] to go up, release to go down.
+- Press and hold [LEFT MOUSE BUTTON], [UP ARROW], or [SPACE] to go up; release to go down.
 - Press [ESC] while in game to pause and unpause. Hold [ESC] while paused to go back to main menu.
 - Press any of the action buttons while in the main menu to start the game.
 
